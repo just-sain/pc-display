@@ -22,13 +22,13 @@ repo -> [link](https://github.com/openhardwaremonitor/openhardwaremonitor)
 - rtc module for date&time
 
 ## schemes
-###**lcd:** LCD 20x4 with module
+### **lcd:** LCD 20x4 with module
 ![lcd](assets/lcd.jpg)
 
-###**rtc:** RTC real time clock
+### **rtc:** RTC real time clock
 ![rtc](assets/rtc.png)
 
-###**rtc with lcd, _solder some pins together_**
+### **rtc with lcd, _solder some pins together_**
 ![rtc-with-lcd](assets/rtc-with-lcd.png)
 
 ## library
